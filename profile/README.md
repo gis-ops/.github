@@ -2,7 +2,7 @@ At GIS • OPS we’re passionately developing **geospatial software** for o
 
 Our core areas of expertise:
 
-- routing applications/libraries in the widest sense (co-maintainers of [Valhalla](https://github.com/valhalla/valhalla))
+- routing applications/libraries in the widest sense (we're co-maintainers of [Valhalla](https://github.com/valhalla/valhalla))
 - juggling OSM data and its wealth of analysis tools
 - QGIS plugin development
 - PostgreSQL/PostGIS/pgRouting
